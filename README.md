@@ -1,0 +1,2 @@
+# Image-Video-Annotation-Portfolio
+# Image &amp; Video Annotation Portfolio  I deliver high-precision Image &amp; Video Annotation for AI &amp; ML models.  ## Core Skills - Bounding Box &amp; Polygon Segmentation - Video Object Tracking &amp; ID Tagging - Strict Guideline &amp; Quality Control  ## Tools CVAT, LabelImg, Image Annotation Lab.  I help platforms like Turing train high-performing models.
